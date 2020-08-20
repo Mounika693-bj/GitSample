@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="94" started-at="2020-07-07T13:35:57 GST" finished-at="2020-07-07T13:35:57 GST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="94" started-at="2020-07-07T13:35:57 GST" finished-at="2020-07-07T13:35:57 GST">
+      <class name="MavenExecution.MavenSample.AppiumcodeTest">
+        <test-method status="PASS" signature="app()[pri:0, instance:MavenExecution.MavenSample.AppiumcodeTest@1063c0a]" name="app" duration-ms="9" started-at="2020-07-07T13:35:57 GST" finished-at="2020-07-07T13:35:57 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+        <test-method status="PASS" signature="mobileAutomation()[pri:0, instance:MavenExecution.MavenSample.AppiumcodeTest@1063c0a]" name="mobileAutomation" duration-ms="0" started-at="2020-07-07T13:35:57 GST" finished-at="2020-07-07T13:35:57 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileAutomation -->
+      </class> <!-- MavenExecution.MavenSample.AppiumcodeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
